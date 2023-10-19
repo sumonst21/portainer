@@ -933,10 +933,10 @@ angular-json-tree@1.0.1:
   dependencies:
     angular "1.x"
 
-angular-jwt@~0.1.8:
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/angular-jwt/-/angular-jwt-0.1.9.tgz#db8bcf18f05aa57320ac2fda161d7e9622c099c3"
-  integrity sha1-24vPGPBapXMgrC/aFh1+liLAmcM=
+angular-jwt@~0.1.10:
+  version "0.1.10"
+  resolved "https://registry.yarnpkg.com/angular-jwt/-/angular-jwt-0.1.10.tgz#de080ad958aaebeb071470d9ee1254b4ffae78cd"
+  integrity sha512-o+V/OzwNGpS30QmgP7DJWTdBJ2BMDut481qqB72sM0L59dkO6TNjRV7qubQCntGqGe98h9vObweQUVYTfEO4vg==
 
 angular-loading-bar@~0.9.0:
   version "0.9.0"
